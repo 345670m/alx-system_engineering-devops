@@ -1,1 +1,2 @@
+#!/bin/bash
 mv betty -t -d my_first_directory
