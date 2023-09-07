@@ -1,1 +1,1 @@
-a script that changes working directory to user's home directory
+diplay current directory contents including hidden files starting with .
